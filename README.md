@@ -3,15 +3,15 @@ from Github.Readme import ReadmeProfile
 
 class Oblivion(ReadmeProfile):
     def __init__(self):
-        self.Username = "IDK"
+        self.Username = "Oblivion1337"
         self.Contacts = {
-            "Discord": "IDK",
-            "Youtube": "IDK",
+            "Discord": "https://discord.gg/kxrJyeEu8Q",
+            "Youtube": "https://www.youtube.com/channel/UCo4kAPigkvFOG8i5BTlKfdQ/about",
             "Telegram": "IDK",
         }
         self.Alias = {
-            "IDK",
-            "IDK"
+            "saido",
+            "Sint0"
         }
         self.Infos = """
             Hey, our name is Oblivion, 1 years old and we develop in our spare time.
@@ -21,7 +21,7 @@ class Oblivion(ReadmeProfile):
                 "Html", "Css", "Javascript", "Php", "Sql"
             },
             "Basic": {
-                "Python", "Csharp", "Nodejs"
+                "Python", "C#", "Nodejs"
             },
             "Learning": {
                 "Golang", "C++"
