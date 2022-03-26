@@ -27,18 +27,4 @@ class Oblivion(ReadmeProfile):
                 "Golang", "C++"
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
