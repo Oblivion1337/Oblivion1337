@@ -7,14 +7,14 @@ class Oblivion(ReadmeProfile):
         self.Contacts = {
             "Discord": "IDK",
             "Youtube": "IDK",
-        "Telegram": "IDK",
+            "Telegram": "IDK",
         }
         self.Alias = {
             "IDK",
             "IDK"
         }
         self.Infos = """
-            Hey, my name is Oblivion, 1 years old and I develop in my spare time, currently learning Golang.
+            Hey, our name is Oblivion, 1 years old and we develop in our spare time.
         """        
         self.Knowledge = {
             "Web": {
