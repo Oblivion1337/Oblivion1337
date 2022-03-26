@@ -14,7 +14,7 @@ class Oblivion(ReadmeProfile):
             "IDK"
         }
         self.Infos = """
-            Hey, my name is Oblivion, 15 years old and I develop in my spare time, currently learning Golang.
+            Hey, my name is Oblivion, 1 years old and I develop in my spare time, currently learning Golang.
         """        
         self.Knowledge = {
             "Web": {
