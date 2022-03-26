@@ -6,7 +6,7 @@ class Oblivion(ReadmeProfile):
         self.Username = "Oblivion1337"
         self.Contacts = {
             "Discord": "https://discord.gg/kxrJyeEu8Q",
-            "Youtube": "https://www.youtube.com/channel/UCo4kAPigkvFOG8i5BTlKfdQ/about",
+            "Youtube": "https://www.youtube.com/channel/UCo4kAPigkvFOG8i5BTlKfdQ",
             "Website": "0blivion.de",
         }
         self.Alias = {
