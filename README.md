@@ -7,7 +7,7 @@ class Oblivion(ReadmeProfile):
         self.Contacts = {
             "Discord": "https://discord.gg/kxrJyeEu8Q",
             "Youtube": "https://www.youtube.com/channel/UCo4kAPigkvFOG8i5BTlKfdQ/about",
-            "Telegram": "IDK",
+            "Website": "0blivion.de",
         }
         self.Alias = {
             "saido",
